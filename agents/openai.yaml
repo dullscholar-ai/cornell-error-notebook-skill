@@ -1,0 +1,7 @@
+interface:
+  display_name: "康奈尔错题集"
+  short_description: "从试卷或作业扫描件生成康奈尔错题集（Markdown/HTML/PDF/Word）"
+  default_prompt: "Use $cornell-error-notebook to 把这份试卷扫描件整理成康奈尔错题集。"
+policy:
+  allow_implicit_invocation: true
+
